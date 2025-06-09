@@ -2,10 +2,7 @@
 
 ![Hyprland Screenshot](snippets/image.png)
 
-## 🔥 Features
-- Modern Wayland compositor with smooth animations
-- i3wm-inspired keybindings for easy transition
-- Customized aesthetic with rounded corners and blur effects
+i3wm-inspired keybindings for easy transition
 
 ## 🛠️ Essential Programs
 | Program | Purpose | 
