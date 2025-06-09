@@ -1,7 +1,6 @@
 # 🌸 Hyprland Dotfiles
 
 ![Hyprland Screenshot](snippets/image.png)
-*A beautiful Hyprland desktop with my custom configuration*
 
 ## 🔥 Features
 - Modern Wayland compositor with smooth animations
